@@ -1,3 +1,5 @@
+# My APP PORTFOLIO
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -13,6 +15,19 @@ pnpm dev
 # or
 bun dev
 ```
+![WhatsApp Image 2024-08-23 at 07 16 28_eb50a854](https://github.com/user-attachments/assets/93bdbf08-440f-40bd-8619-2fb50b5e3711)
+
+![WhatsApp Image 2024-08-23 at 07 18 12_e09c6fec](https://github.com/user-attachments/assets/1f6ea755-9a4b-444c-86b5-40265af440a1)
+
+![WhatsApp Image 2024-08-23 at 07 18 12_8cacb9de](https://github.com/user-attachments/assets/7604a806-4dee-492d-8fe5-b500f4575a7b)
+
+![WhatsApp Image 2024-08-23 at 07 19 34_13c7469d](https://github.com/user-attachments/assets/4a8c13f8-cd6a-419f-b05b-dafc971aee41)
+
+![WhatsApp Image 2024-08-23 at 07 21 39_ef9c03ef](https://github.com/user-attachments/assets/13ed91c3-4c65-4765-98da-4320b54d42e9)
+
+![WhatsApp Image 2024-08-23 at 07 23 18_5465ccd4](https://github.com/user-attachments/assets/c08f3c70-00d5-403d-93a3-2c6346c84fdc)
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
